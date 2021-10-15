@@ -16,6 +16,8 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 If you do not know react then make your changes by modifying `temple/index.html`. You can use the Live server extension to view your edits live as you change them.
 
+claim a task on asana. make a branch for it and start working.
+
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
